@@ -7,21 +7,17 @@ WOLFRAMALPHA  is a unique engine for computing answers and providing knowledge. 
 			
 			IN WINDOWS:pip install wolframalpha
 			
-WIKIPEDIA is increasingly used by people in the academic community, from freshman students to distinguished professorship, as an easily accessible tertiary source for information about anything and everything, and as a quick "ready reference", to get a sense of a concept or idea.
-			
-			link is <a href="https://www.wikipedia.org/"wikipedia</a>
+WIKIPEDIA is increasingly used by people in the academic community, from freshman students to distinguished professorship, as an easily accessible tertiary source for information about anything and everything, and as a quick "ready reference", to get a sense of a concept or idea. <a href="https://www.wikipedia.org/"wikipedia</a>
 			
 			IN WINDOWS:pip install wikipedia
 			
-PYTTSX3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
-			
-			link is <a href="https://pypi.org/project/pyttsx3/"pyttsx3</a>
+PYTTSX3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3 
+<a href="https://pypi.org/project/pyttsx3/"pyttsx3</a>
+
 			
 			IN WINDOWS:pip install pyttsx3
 			
 
-WX @wxPython is a wrapper for the cross-platform GUI API (often referred to as a "toolkit") wxWidgets (which is written in C++) for the Python programming language. It is one of the alternatives to Tkinter. It is implemented as a Python extension module (native code).
-
-			link is <a href="https://www.wxpython.org/"wx</a>
+WX @wxPython is a wrapper for the cross-platform GUI API (often referred to as a "toolkit") wxWidgets (which is written in C++) for the Python programming language. It is one of the alternatives to Tkinter. It is implemented as a Python extension module (native code). <a href="https://www.wxpython.org/"wx</a>
 			
 			IN WINDOWS:pip install WX
