@@ -2,7 +2,7 @@ import wolframalpha
 
 input=input("Q: ")
 try:
-    app_id='GAGHGV-76KGJTLV2L'
+    app_id='your app-id'
     client=wolframalpha.Client(app_id)
     res=client.query(input)
     answer=next(res.results).text
