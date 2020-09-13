@@ -1,5 +1,5 @@
 # DIGITAL_CHATBOT
-<a href="testRel/myLib">myLib/</a>
+
 
 in this i used libraries like API'S and GUI
 
@@ -8,17 +8,17 @@ in this i used libraries like API'S and GUI
 			
 			IN WINDOWS:pip install wolframalpha
 			
-WIKIPEDIA is increasingly used by people in the academic community, from freshman students to distinguished professorship, as an easily accessible tertiary source for information about anything and everything, and as a quick "ready reference", to get a sense of a concept or idea. <a href="https://www.wikipedia.org/"</a>
+<a href="https://www.wikipedia.org/">WIKIPEDIA</a> is increasingly used by people in the academic community, from freshman students to distinguished professorship, as an easily accessible tertiary source for information about anything and everything, and as a quick "ready reference", to get a sense of a concept or idea.
 			
 			IN WINDOWS:pip install wikipedia
 			
-PYTTSX3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3 
-<a href="https://pypi.org/project/pyttsx3/"</a>
+<a href="https://pypi.org/project/pyttsx3/">PYTTSX3</a> is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3 
+
 
 			
 			IN WINDOWS:pip install pyttsx3
 			
 
-WX @wxPython is a wrapper for the cross-platform GUI API (often referred to as a "toolkit") wxWidgets (which is written in C++) for the Python programming language. It is one of the alternatives to Tkinter. It is implemented as a Python extension module (native code). <a href="https://www.wxpython.org/"</a>
+<a href="https://www.wxpython.org/">WXPYTHON</a> @wxPython is a wrapper for the cross-platform GUI API (often referred to as a "toolkit") wxWidgets (which is written in C++) for the Python programming language. It is one of the alternatives to Tkinter. It is implemented as a Python extension module (native code).
 			
 			IN WINDOWS:pip install WX
