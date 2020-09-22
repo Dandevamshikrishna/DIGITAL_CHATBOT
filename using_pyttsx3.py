@@ -4,7 +4,7 @@ import pyttsx3
 engine = pyttsx3.init()
 
 # say method on the engine that passing input text to be spoken
-engine.say('hello Dande vamshivardhan, pppaaaannndhheega ,sigguleyda ')
+engine.say('hello sai ')
 
 # run and wait method, it processes the voice commands.
 engine.runAndWait()
