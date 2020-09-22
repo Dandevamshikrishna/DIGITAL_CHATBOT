@@ -3,7 +3,7 @@
 
 
 
-<a href="https://www.wolframalpha.com/">WOLFRAMALPHA</a> is a unique engine for computing answers and providing knowledge. It works by using its vast store of expert-level knowledge and algorithms to automatically answer questions, do analysis and generate reports.
+<a href="https:/https://products.wolframalpha.com/api//">WOLFRAMALPHA</a> is a unique engine for computing answers and providing knowledge. It works by using its vast store of expert-level knowledge and algorithms to automatically answer questions, do analysis and generate reports.
 		to access this we have to get app id from this where it is free access to get this we have to create account
 			
 			IN WINDOWS:pip install wolframalpha
